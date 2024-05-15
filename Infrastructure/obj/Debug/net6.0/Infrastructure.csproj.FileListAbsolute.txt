@@ -1,0 +1,14 @@
+C:\MultiPlataforma\BibliotecaApi\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+C:\MultiPlataforma\BibliotecaApi\Infrastructure\bin\Debug\net6.0\Infrastructure.runtimeconfig.json
+C:\MultiPlataforma\BibliotecaApi\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+C:\MultiPlataforma\BibliotecaApi\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+C:\MultiPlataforma\BibliotecaApi\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+C:\MultiPlataforma\BibliotecaApi\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\MultiPlataforma\BibliotecaApi\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+C:\MultiPlataforma\BibliotecaApi\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+C:\MultiPlataforma\BibliotecaApi\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\MultiPlataforma\BibliotecaApi\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+C:\MultiPlataforma\BibliotecaApi\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
+C:\MultiPlataforma\BibliotecaApi\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+C:\MultiPlataforma\BibliotecaApi\Infrastructure\obj\Debug\net6.0\Infrastructure.genruntimeconfig.cache
+C:\MultiPlataforma\BibliotecaApi\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll

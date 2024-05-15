@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MultiPlataforma\\BibliotecaApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9650F8-E10C-4C90-B2C8-E78E424B8E24}|Business\\Business.csproj|c:\\multiplataforma\\bibliotecaapi\\business\\implementations\\libroservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B9650F8-E10C-4C90-B2C8-E78E424B8E24}|Business\\Business.csproj|solutionrelative:business\\implementations\\libroservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C8984E-BC70-494F-A307-DA502D8871AF}|BibliotecaApi\\BibliotecaApi.csproj|c:\\multiplataforma\\bibliotecaapi\\bibliotecaapi\\controllers\\librocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0C8984E-BC70-494F-A307-DA502D8871AF}|BibliotecaApi\\BibliotecaApi.csproj|solutionrelative:bibliotecaapi\\controllers\\librocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9650F8-E10C-4C90-B2C8-E78E424B8E24}|Business\\Business.csproj|c:\\multiplataforma\\bibliotecaapi\\business\\interfaces\\ilibroservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B9650F8-E10C-4C90-B2C8-E78E424B8E24}|Business\\Business.csproj|solutionrelative:business\\interfaces\\ilibroservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9650F8-E10C-4C90-B2C8-E78E424B8E24}|Business\\Business.csproj|c:\\multiplataforma\\bibliotecaapi\\business\\interfaces\\iareaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B9650F8-E10C-4C90-B2C8-E78E424B8E24}|Business\\Business.csproj|solutionrelative:business\\interfaces\\iareaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C8984E-BC70-494F-A307-DA502D8871AF}|BibliotecaApi\\BibliotecaApi.csproj|c:\\multiplataforma\\bibliotecaapi\\bibliotecaapi\\controllers\\areacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0C8984E-BC70-494F-A307-DA502D8871AF}|BibliotecaApi\\BibliotecaApi.csproj|solutionrelative:bibliotecaapi\\controllers\\areacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9650F8-E10C-4C90-B2C8-E78E424B8E24}|Business\\Business.csproj|c:\\multiplataforma\\bibliotecaapi\\business\\implementations\\areaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B9650F8-E10C-4C90-B2C8-E78E424B8E24}|Business\\Business.csproj|solutionrelative:business\\implementations\\areaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AreaController.cs",
+              "DocumentMoniker": "C:\\MultiPlataforma\\BibliotecaApi\\BibliotecaApi\\Controllers\\AreaController.cs",
+              "RelativeDocumentMoniker": "BibliotecaApi\\Controllers\\AreaController.cs",
+              "ToolTip": "C:\\MultiPlataforma\\BibliotecaApi\\BibliotecaApi\\Controllers\\AreaController.cs",
+              "RelativeToolTip": "BibliotecaApi\\Controllers\\AreaController.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAkwEgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T00:27:24.136Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AreaServices.cs",
+              "DocumentMoniker": "C:\\MultiPlataforma\\BibliotecaApi\\Business\\Implementations\\AreaServices.cs",
+              "RelativeDocumentMoniker": "Business\\Implementations\\AreaServices.cs",
+              "ToolTip": "C:\\MultiPlataforma\\BibliotecaApi\\Business\\Implementations\\AreaServices.cs",
+              "RelativeToolTip": "Business\\Implementations\\AreaServices.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAiwEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T00:43:02.664Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAreaServices.cs",
+              "DocumentMoniker": "C:\\MultiPlataforma\\BibliotecaApi\\Business\\Interfaces\\IAreaServices.cs",
+              "RelativeDocumentMoniker": "Business\\Interfaces\\IAreaServices.cs",
+              "ToolTip": "C:\\MultiPlataforma\\BibliotecaApi\\Business\\Interfaces\\IAreaServices.cs",
+              "RelativeToolTip": "Business\\Interfaces\\IAreaServices.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAUwBQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T16:42:11.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LibroController.cs",
+              "DocumentMoniker": "C:\\MultiPlataforma\\BibliotecaApi\\BibliotecaApi\\Controllers\\LibroController.cs",
+              "RelativeDocumentMoniker": "BibliotecaApi\\Controllers\\LibroController.cs",
+              "ToolTip": "C:\\MultiPlataforma\\BibliotecaApi\\BibliotecaApi\\Controllers\\LibroController.cs",
+              "RelativeToolTip": "BibliotecaApi\\Controllers\\LibroController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAgwEwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T03:23:26.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibroServices.cs",
+              "DocumentMoniker": "C:\\MultiPlataforma\\BibliotecaApi\\Business\\Implementations\\LibroServices.cs",
+              "RelativeDocumentMoniker": "Business\\Implementations\\LibroServices.cs",
+              "ToolTip": "C:\\MultiPlataforma\\BibliotecaApi\\Business\\Implementations\\LibroServices.cs",
+              "RelativeToolTip": "Business\\Implementations\\LibroServices.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAswEwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T03:23:04.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ILibroServices.cs",
+              "DocumentMoniker": "C:\\MultiPlataforma\\BibliotecaApi\\Business\\Interfaces\\ILibroServices.cs",
+              "RelativeDocumentMoniker": "Business\\Interfaces\\ILibroServices.cs",
+              "ToolTip": "C:\\MultiPlataforma\\BibliotecaApi\\Business\\Interfaces\\ILibroServices.cs",
+              "RelativeToolTip": "Business\\Interfaces\\ILibroServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T03:23:35.069Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
